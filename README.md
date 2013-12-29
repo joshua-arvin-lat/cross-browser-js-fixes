@@ -1,6 +1,8 @@
 Cross Browser JS Fixes
 ======================
 
+<div  style="background-color: red">Test</div>
+
 - Array indexOf function fix  
 - console log fix  
 - String trim  
